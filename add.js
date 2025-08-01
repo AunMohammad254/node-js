@@ -1,8 +1,4 @@
-function add(c) {
-    a = 50
-    b = 30
-    c = a + b 
-    return c
+function add(a, b) {
+    return a + b
 }
-add(c)
-module.exports = add
+module.exports = { add }
