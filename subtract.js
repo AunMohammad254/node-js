@@ -1,8 +1,4 @@
-function subtract(c) {
-    a = 50
-    b = 30
-    c = a - b 
-    return c
+function subtract(a, b) {
+    return a - b
 }
-subtract(c)
-module.exports = subtract
+module.exports = { subtract }

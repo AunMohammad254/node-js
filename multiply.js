@@ -1,8 +1,4 @@
-function multiply(c) {
-    a = 50
-    b = 30
-    c = a * b 
-    return c
+function multiply(a, b) {
+    return a * b
 }
-multiply(c)
-module.exports = multiply
+module.exports = { multiply }
