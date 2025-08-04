@@ -1,5 +1,5 @@
 // Import arithmetic functions from operations.js using destructuring
-const { add, subtract, multiply, divide } = require('./operations.js');
+const { add, subtract, multiply, divide } = require('./calculate');// It directs the operations automatically the index.js file
 
 // Import the readline module to handle user input from the command line
 const readline = require('readline');
