@@ -1,3 +1,3 @@
 # node-js
 only for node.js practice <br>
-My first terminal calculator using MJS (Common JavaScript).
+My first terminal calculator using CJS (Common JavaScript).
